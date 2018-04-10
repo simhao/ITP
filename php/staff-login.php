@@ -1,0 +1,95 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		
+	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!--<link rel="stylesheet" href="css/normalize.min.css">
+		<link rel="stylesheet" href="css/bootstrap-grid.css">
+		<link rel="stylesheet" href="css/bootstrap-reboot.css">
+		<link rel="stylesheet" href="css/bootstrap.css">-->
+        <link rel="stylesheet" href="../css/main.css">
+
+        <script src="../html/js/vendor/modernizr-2.8.3.min.js"></script>
+		
+		
+    </head>
+    <body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+		
+     
+      
+    </div>
+  </div>
+</nav>
+<!-------View Portfolio------->
+<div class="container"> 
+	<div class="container band2">
+	 
+		<h3 class="text-center">NYP Interaction Design</h3>
+		<h3 class="text-center">Internship Portal</h3>
+    </div>
+	<br>
+	<br>
+	<div class="container band2">
+	<div class="" id="login-modal" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+    	  <div class="modal-dialog">
+				<div class="loginmodal-container">
+					<ul class="nav navbar-nav">
+					<li class="dropdown"><a style="color: black;" class="dropdown-toggle" data-toggle="dropdown" href="#">Login As Staff <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="../html/company-login.html">Login As Company</a></li>
+					<li><a href="../html/student-login.html">Login As Student</a></li>
+				</ul>
+			</li></ul>
+				  <form>
+					<input type="text" name="user" placeholder="Username">
+					<input type="password" name="pass" placeholder="Password">
+					
+					  
+				  </form>
+					<button style="margin-left: 10px;" type="button" class="btn btn-danger buttonpopup pull-right">Login</button>
+					<!--<a style="color: black" class="pull-right" href="#"><button type="button" class="btn btn-secondary buttonpopup pull-right">Register</button></a>-->
+				  
+				</div>
+			</div>
+		  </div>
+		</div>
+	  <!--<div class="form-group">
+    <label for="exampleInputFile">File input</label>
+    <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
+    
+  </div>-->
+	  </div>
+    
+
+
+ 
+
+        <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script-->
+        <script>window.jQuery || document.write('<script src="../js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+		
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		
+		
+	<!--<script src="js/bootstrap.bundle.js"></script>
+		<script src="js/bootstrap.js"></script>-->
+        <script src="../js/main.js"></script>
+    </body>
+</html>
