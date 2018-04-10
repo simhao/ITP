@@ -69,6 +69,7 @@
 		<dd class="col-sm-12 text-center">Batch: <?php echo $Batch; ?></dd>
 		<dd class="col-sm-12 text-center">Email: <?php echo $Email; ?></dd>
 		<dd class="col-sm-12 text-center">Assign_Company: <?php echo $Assign_Company; ?></dd>
+        <dd class="col-sm-12 text-center">Assign_Company: <?php echo $Assign_Company; ?></dd>
 		
 		
 	</dl>
